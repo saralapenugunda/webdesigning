@@ -1,0 +1,26 @@
+p{
+    color:pink;
+    background-color:blue;
+    text-align: center;
+}
+#abc{
+    color:rgb(254, 29, 44);
+    background-color:rgba(17, 17, 18, 0.666);
+    text-align: center;
+}
+.xyz{
+    color:rgb(23, 15, 250);
+    background-color:yellow;
+    text-align: center;
+}
+p>a{
+    color:#fa0fc7;
+    text-align: center;
+    border: 20px;
+}
+
+h3,h2{
+    color:#fa0f0f;
+    text-align: right;
+    border: 20px;
+}
